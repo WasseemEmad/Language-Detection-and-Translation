@@ -1,5 +1,9 @@
 # Language-Detection-and-Translation
 
+## Dataset:
+
+https://www.kaggle.com/datasets/chazzer/big-language-detection-dataset/data
+
 ## Overview
 
 This project consists of a deep learning-based language detection model and a Streamlit application for real-time language detection and translation. The model is trained using an LSTM-based neural network, and the app provides a user-friendly interface to detect languages and translate text using the Google Translator API.
